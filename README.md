@@ -28,3 +28,6 @@ Model quality:
 Pseudo R² = 0.247 — the model explains 24.7% of the data variation.
 
 All significant coefficients have the expected signs (common sense check).
+
+
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/vitalysramblerru)
